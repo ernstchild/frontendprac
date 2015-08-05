@@ -1,0 +1,62 @@
+p {
+  color: red;
+  font-family: Arial;
+  font-size: 20px;
+}
+
+body {
+  font-family: "Gothic";
+  background: url('background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+#title {
+  color:teal;
+}
+
+.restaurant-item {
+  background-color: rgba (255, 255, 255, 0.666);
+}
+
+div.restaurant-item {
+  background-color: rgba (255, 255, 255, 0.666);
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  border: 2px solid navy;
+  border-radius: 10%;
+}
+
+.restaurant-item h2 {
+  letter-spacing: 2px;
+}
+
+.restaurant-item h3 {
+color: #777;
+font-style: italic;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #357;
+}
+
+p {font-size: 1.2em;
+font-family: Verdana;
+font-weight: 100; /*100-900*/
+color: #444;
+line-height: 125%;
+letter-spacing: 2px;
+text-align: center;}
+
+.rest-photo {
+width: 20%;
+float right
+}

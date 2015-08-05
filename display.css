@@ -1,0 +1,28 @@
+.play {
+  height: 50px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+#one {
+  background-color: red;
+  display: none;
+}
+
+#two {
+  background-color: blue;
+}
+
+#three {
+  background-color: yellow;
+}
+
+#four {
+  background-color: black;
+}
+
+.play {
+  width: 300px;
+}
